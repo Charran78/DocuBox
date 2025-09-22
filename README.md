@@ -5,7 +5,7 @@ Una aplicación de escritorio 100% local para organizar, buscar y analizar docum
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
 
-## [Demo](docbox6.gif)
+![Demo](docbox6.gif)
 
 
 ## ✨ Características
