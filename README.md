@@ -1,5 +1,5 @@
-# Document Organizer 🗂️
-Una aplicación de escritorio 100% local para organizar, buscar y analizar documentos con inteligencia artificial integrada. Desarrollada en Python con StreamLit para la interfaz gráfica.
+# DocuBox 🗂️
+Un RAG 100% local para organizar, buscar y analizar documentos con inteligencia artificial integrada. Desarrollada en Python con StreamLit para la interfaz gráfica.
 ![Python](https://img.shields.io/badge/Python-3.12%2B-blue)
 ![StreamLit](https://img.shields.io/badge/StreamLit-1.28.0-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
